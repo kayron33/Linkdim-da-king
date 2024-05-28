@@ -115,7 +115,7 @@ cursor: pointer;
 
 @media(max-width:768px){
     html{
-        background: url(img/king\ 1500.jpg);
+        background: url(img/king\ 1500.jpg) no-repeat;
         background-position: center;
         background-size: cover;
     }
