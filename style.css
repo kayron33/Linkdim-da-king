@@ -97,18 +97,16 @@ height: 40px;
 margin: 20px; 
 outline: none;
 border: none;  
-transition: 1.1s;
+transition: 1.4s;
 cursor: pointer;
 
 }
 
 
 .links .links-tipo button:hover{
-
-    color: rgb(223, 177, 116);
-    border: 1px solid white;
+    border: 0.5px solid rgba(255, 255, 255, 0.705);
     font-weight: 900;
-    background-color: #6665621a;
+    background-color: #666562;
     transform: scale(1.1);
 }
 
